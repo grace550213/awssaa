@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* 你原本寫在裡面的自定義閃卡樣式保留在下方 */
+.perspective-1000 { perspective: 1000px; }
+.backface-hidden { backface-visibility: hidden; }
+.transform-style-3d { transform-style: preserve-3d; }
+.rotate-y-180 { transform: rotateY(180deg); }
